@@ -1,4 +1,4 @@
-# Library_animated_text
+#
 
 ## Библиотека шаблонов. "Animated_text"
 
